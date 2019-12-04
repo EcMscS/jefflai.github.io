@@ -2755,8 +2755,8 @@ input, select, textarea {
 	}
 
 		.spotlight .image {
-			width: fit-content;
-			height: fit-content;
+			width: 100%;
+			//height: fit-content;
 			//border-radius: 100%;
 			margin: 0 3em 0 0;
 			display: block;
