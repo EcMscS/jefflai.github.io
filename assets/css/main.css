@@ -2385,7 +2385,7 @@ input, select, textarea {
 			}
 
 	.image {
-		box-shadow: 0 0 0 4px #ffffff, 0 0 0 5px #e6e6e6;
+		//box-shadow: 0 0 0 4px #ffffff, 0 0 0 5px #e6e6e6;
 	}
 
 		.image.phone {
