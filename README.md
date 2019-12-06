@@ -1,2 +1,2 @@
-# Fractal_Website
- iOS App Portfolio Website
+iOS App Portfolio
+Jeffrey Lai
